@@ -35,12 +35,15 @@ public class DropDown3 {
 		dragRowList(11, 8);
 
 		System.out.println("------------------------------------------");
+
 		List<WebElement> List2 = getList();
 
 		for (WebElement elem : List2) {
 			System.out.println(elem.getText());
 		}
-
+        
+		//HHHHHHHHH
+		
 		// Thread.sleep(5000);
 		// driver.quit();
 		// MASTER //MASTER //MASTER //MASTER //MASTER //MASTER
