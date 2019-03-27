@@ -33,6 +33,7 @@ public class DropDown {
 		dragRowList(1, 3);
 		dragRowList(5, 6);
 		dragRowList(11, 8);
+		dragRowList(11, 8);
 
 		System.out.println("------------------------------------------");
 		List<WebElement> List2 = getList();
